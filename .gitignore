@@ -58,3 +58,4 @@ build/
 ### VS Code ###
 .vscode/
 >>>>>>> e60924f (Project created)
+.data
