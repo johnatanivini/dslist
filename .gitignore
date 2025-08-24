@@ -59,3 +59,4 @@ build/
 .vscode/
 >>>>>>> e60924f (Project created)
 .data
+.data/postgresql
